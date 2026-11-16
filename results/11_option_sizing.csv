@@ -1,0 +1,5 @@
+sort_order,option,rule,calls_made,deposits_sold,calls_per_sale,pct_calls_saved,pct_sales_kept
+0,As run,Every call that was made,105754,4640,22.8,0.0,100.0
+1,A,Stop after three calls to a client,77710,4085,19.0,26.5,88.0
+2,B,No first-time calls to landlines,63824,3953,16.1,39.6,85.2
+3,C,Both rules together,49000,3525,13.9,53.7,76.0

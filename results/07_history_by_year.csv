@@ -1,0 +1,13 @@
+history_order,history,period,clients_contacted,deposits_sold,pct_clients_who_bought
+1,Bought in an earlier campaign,2008,35,3,8.6
+1,Bought in an earlier campaign,2009,690,392,56.8
+1,Bought in an earlier campaign,2010,648,499,77.0
+1,Bought in an earlier campaign,All years,1373,894,65.1
+2,Declined in an earlier campaign,2008,699,24,3.4
+2,Declined in an earlier campaign,2009,2986,385,12.9
+2,Declined in an earlier campaign,2010,567,196,34.6
+2,Declined in an earlier campaign,All years,4252,605,14.2
+3,Never contacted before,2008,26956,1312,4.9
+3,Never contacted before,2009,7764,1451,18.7
+3,Never contacted before,2010,843,378,44.8
+3,Never contacted before,All years,35563,3141,8.8

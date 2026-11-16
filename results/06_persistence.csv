@@ -1,0 +1,5 @@
+sort_order,calls_to_client,clients_contacted,calls_made,pct_of_all_calls,deposits_sold,pct_of_all_sales,calls_per_sale
+1,1 to 3 calls,33553,54805,51.8,4085,88.0,13.0
+2,4 to 6 calls,5229,24473,23.1,444,9.6,55.0
+3,7 to 9 calls,1312,10150,9.6,72,1.6,141.0
+4,10 calls and more,1094,16326,15.4,39,0.8,419.0

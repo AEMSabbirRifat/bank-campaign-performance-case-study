@@ -1,0 +1,6 @@
+call_order,client_group,clients_contacted,calls_made,deposits_sold,pct_clients_who_bought,calls_per_sale,cumulative_pct_of_calls,cumulative_pct_of_sales
+1,Bought in an earlier campaign,1373,2483,894,65.1,2.8,2.3,19.3
+2,"First-time, mobile, student or retired",1283,2975,346,27.0,8.6,5.2,26.7
+3,"First-time, mobile, everyone else",19639,49840,2108,10.7,23.6,52.3,72.2
+4,Declined in an earlier campaign,4252,8526,605,14.2,14.1,60.4,85.2
+5,"First-time, landline",14641,41930,687,4.7,61.0,100.0,100.0
